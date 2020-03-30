@@ -1,0 +1,32 @@
+body
+{
+  background-color: rgb(240,234,214);
+}
+
+p.header
+{
+  color: black;
+  font-family: arial ;
+  font-size: 22pt;
+  text-align: center;
+}
+
+p.subheader
+{
+  color: black;
+  font-family: arial;
+  font-size: 12pt;
+  text-align: center;
+}
+
+a
+{
+  font-family: arial;
+}
+
+div
+{
+ 
+  text-align: center;
+}
+
